@@ -41,7 +41,7 @@ def forces(pos, vel):
     f_drag = -DAMPING * vel
     return f_spring + f_gravity + f_drag, f_gravity, f_spring
 
-
+#calculates physics 20times in 1 frame
 def step(pos, vel, dt):
     """Semi-implicit (symplectic) Euler: stable for oscillators."""
     f, _, _ = forces(pos, vel)
