@@ -29,7 +29,8 @@ because before this project I had zero knowledge about pygame, numpy and simulat
 How to run:
 1. install python 3, if you haven't
 2. to install numpy and pygame paste this in terminal: pip install pygame-ce numpy
-3. Navigate to the project directory in your terminal and execute: python spring_mass.py
+3. downlaod the spring_mass.py from my github repository
+4. run the code using vs code or other code editor.
 
 Additional info:
 I created this project to visualize physics behaviour to learn more clearly since I'm a visual learner and AI is only used to for learning, clearing doubts and ideas, I tried creating a more advanced 
