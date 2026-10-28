@@ -1,6 +1,10 @@
 # Spring-mass simulator
 A 2D interactive spring-mass simulator built using python and its libraries like numpy and pygame.
 
+## Demo (Watch a pre-recordered video of simulation)
+Watch the spring-mass system oscillate under gravity, and interact with the simulation.
+https://github.com/user-attachments/assets/b9cd39bc-b921-4c9a-a1f5-c5aeedcd147c
+
 About this project.
 This project simulates a mass and spring attached to a rigid surface where the mass moves with various 
 forces acting on it like gravity, spring-force and damping force.
