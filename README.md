@@ -31,6 +31,10 @@ numpy folder, pygame folder, rough folder
 because before this project I had zero knowledge about pygame, numpy and simulating physics I had to learn those so I experimented in those folder.
 
 How to run:
+1. Download SpringMass.exe from the project's Releases or provided download.
+2. Double-click SpringMass.exe to launch the simulator.
+
+(from source code)
 1. install python 3, if you haven't
 2. to install numpy and pygame paste this in terminal: pip install pygame-ce numpy
 3. downlaod the spring_mass.py from my github repository
