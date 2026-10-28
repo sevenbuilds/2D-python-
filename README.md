@@ -2,7 +2,7 @@
 A 2D interactive spring-mass simulator built using python and its libraries like numpy and pygame.
 
 ## Demo (Watch a pre-recordered video of simulation)
-Watch the spring-mass system oscillate under gravity, and interact with the simulation.
+watch the spring-mass system oscillate under gravity, and interact with the simulation.
 https://github.com/user-attachments/assets/b9cd39bc-b921-4c9a-a1f5-c5aeedcd147c
 
 About this project.
@@ -31,8 +31,13 @@ numpy folder, pygame folder, rough folder
 because before this project I had zero knowledge about pygame, numpy and simulating physics I had to learn those so I experimented in those folder.
 
 How to run:
-1. Download SpringMass.exe from the project's Releases or provided download.
-2. Double-click SpringMass.exe to launch the simulator.
+1. Go to my repository: https://github.com/sevenbuilds/2D-python-
+2. find code button (looks green) on top right, click it and choose the "Download zip" option
+3. open the downloaded file, you will see "2D-python--main" double click it and inside you will find "dist" open it
+4. you will see "SpringMass" double click it then extract all 
+5. After extraction double click the file again, you might see "Windows protected your PC" look below, click "more info"
+6. press "run anyway"
+7. you have access to my project. 
 
 (from source code)
 1. install python 3, if you haven't
