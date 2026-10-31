@@ -1,4 +1,4 @@
-<h1 align="center">Spring-mass simulator <h1>
+<h1 align="center">Spring-mass simulator </h1>
 
 <p align="center">
 A 2D interactive spring-mass simulator built using <b>Python</b> and its libraries like <b>Numpy</b> and <b>Pygame</b>.
