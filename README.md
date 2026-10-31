@@ -1,5 +1,6 @@
 <h1 align="center">Spring-mass simulator <h1>
-<p align="center"> A 2D interactive spring-mass simulator built using <b>Python</b> and its libraries like <b>Numpy</b> and <b>Pygame</b>.
+
+<p align="center"> A 2D interactive spring-mass simulator built using <b>Python</b> and its libraries like <b>Numpy</b> and <b>Pygame</b>.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10+-blue?logo=python&logoColor=white">
@@ -46,14 +47,13 @@ because before this project I had zero knowledge about pygame, numpy and simulat
 
 ## 🚀 How to run:
 Option 1: Download the Executable (Recommended)
-```bash
 1. Go to [Releases](https://github.com/sevenbuilds/2D-python-/releases/tag/Simulation_v1.0.0) page.
 2. Download SpringMass.exe from the lastest release.
 3. Double-click the downloaded file so launch the simulation.
 4. If faced with "Windows protection" click more info down below.
 5. choose the option "Run anyway".
 6. Enjoy the simulation!
-```
+
 Option 2: Run from source
 if you want to run or modify the code:
 - you must have **Python 3.13**, **Pygame CE** and **Numpy**.
