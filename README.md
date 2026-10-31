@@ -53,7 +53,7 @@ because before this project I had zero knowledge about pygame, numpy and simulat
 4. If faced with "Windows protection" click more info down below.
 5. choose the option "Run anyway".
 6. Enjoy the simulation!
-
+<br>
 
 **Option 2**: Run from source
 if you want to run or modify the code:
