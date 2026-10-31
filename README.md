@@ -36,9 +36,9 @@ I created this project since I wanted to apply my therotical knowledge that I le
 
 ## Built with:
 ```bash
-- **Python**
-- **Numpy**
-- **Pygame**
+- Python
+- Numpy
+- Pygame
 ```
 
 ## Ignore:
@@ -46,7 +46,7 @@ numpy folder, pygame folder, rough folder
 because before this project I had zero knowledge about pygame, numpy and simulating physics I had to learn those so I experimented in those folder.
 
 ## 🚀 How to run:
-Option 1: Download the Executable (Recommended)
+**Option 1**: Download the Executable (**Recommended**)
 1. Go to [Releases](https://github.com/sevenbuilds/2D-python-/releases/tag/Simulation_v1.0.0) page.
 2. Download SpringMass.exe from the lastest release.
 3. Double-click the downloaded file so launch the simulation.
@@ -54,7 +54,8 @@ Option 1: Download the Executable (Recommended)
 5. choose the option "Run anyway".
 6. Enjoy the simulation!
 
-Option 2: Run from source
+
+**Option 2**: Run from source
 if you want to run or modify the code:
 - you must have **Python 3.13**, **Pygame CE** and **Numpy**.
 
