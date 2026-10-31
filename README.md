@@ -1,6 +1,8 @@
 <h1 align="center">Spring-mass simulator <h1>
 
-<p align="center"> A 2D interactive spring-mass simulator built using <b>Python</b> and its libraries like <b>Numpy</b> and <b>Pygame</b>.</p>
+<p align="center">
+A 2D interactive spring-mass simulator built using <b>Python</b> and its libraries like <b>Numpy</b> and <b>Pygame</b>.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10+-blue?logo=python&logoColor=white">
@@ -53,7 +55,8 @@ because before this project I had zero knowledge about pygame, numpy and simulat
 4. If faced with "Windows protection" click more info down below.
 5. choose the option "Run anyway".
 6. Enjoy the simulation!
-<br>
+
+---
 
 **Option 2**: Run from source
 if you want to run or modify the code:
